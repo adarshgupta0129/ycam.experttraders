@@ -1,0 +1,422 @@
+#home-security,
+#pg-15948-1,
+#how-it-works,
+#why-y-cam,
+#products,
+#y-cam-plus,
+#y-cam-videos,
+#pg-15948-7 {
+ margin-bottom: 40px
+}
+
+#home-security .panel-grid-cell,
+#pg-15948-1 .panel-grid-cell,
+#how-it-works .panel-grid-cell,
+#why-y-cam .panel-grid-cell,
+#products .panel-grid-cell,
+#y-cam-plus .panel-grid-cell,
+#y-cam-videos .panel-grid-cell,
+#pg-15948-7 .panel-grid-cell,
+#pg-15948-8 .panel-grid-cell {
+ float: none
+}
+
+#pl-15948 .panel-grid-cell .so-panel {
+ margin-bottom: 30px
+}
+
+#pl-15948 .panel-grid-cell .so-panel:last-child {
+ margin-bottom: 0px
+}
+
+@media (max-width:780px) {
+ #home-security .panel-grid-cell,
+ #pg-15948-1 .panel-grid-cell,
+ #how-it-works .panel-grid-cell,
+ #why-y-cam .panel-grid-cell,
+ #products .panel-grid-cell,
+ #y-cam-plus .panel-grid-cell,
+ #y-cam-videos .panel-grid-cell,
+ #pg-15948-7 .panel-grid-cell,
+ #pg-15948-8 .panel-grid-cell {
+  float: none;
+  width: auto
+ }
+ #pl-15948 .panel-grid,
+ #pl-15948 .panel-grid-cell {}
+ #pl-15948 .panel-grid .panel-grid-cell-empty {
+  display: none
+ }
+ #pl-15948 .panel-grid .panel-grid-cell-mobile-last {
+  margin-bottom: 0px
+ }
+}
+
+/* Layout w5af278e24d8dc */
+
+#pgc-w5af278e24d8dc-0-0 {
+ width: 66.667%
+}
+
+#pgc-w5af278e24d8dc-0-1 {
+ width: 33.333%
+}
+
+#pg-w5af278e24d8dc-0 .panel-grid-cell {
+ float: left
+}
+
+#pl-w5af278e24d8dc .panel-grid-cell .so-panel {
+ margin-bottom: 30px
+}
+
+#pl-w5af278e24d8dc .panel-grid-cell .so-panel:last-child {
+ margin-bottom: 0px
+}
+
+#pg-w5af278e24d8dc-0 {
+ margin-left: -15px;
+ margin-right: -15px
+}
+
+#pg-w5af278e24d8dc-0 .panel-grid-cell {
+ padding-left: 15px;
+ padding-right: 15px
+}
+
+@media (max-width:780px) {
+ #pg-w5af278e24d8dc-0 .panel-grid-cell {
+  float: none;
+  width: auto
+ }
+ #pgc-w5af278e24d8dc-0-0 {
+  margin-bottom: 30px
+ }
+ #pl-w5af278e24d8dc .panel-grid,
+ #pl-w5af278e24d8dc .panel-grid-cell {}
+ #pl-w5af278e24d8dc .panel-grid .panel-grid-cell-empty {
+  display: none
+ }
+ #pl-w5af278e24d8dc .panel-grid .panel-grid-cell-mobile-last {
+  margin-bottom: 0px
+ }
+}
+
+/* Layout w5aefdf5b5f52c */
+
+#pg-w5aefdf5b5f52c-0 .panel-grid-cell {
+ float: none
+}
+
+#pl-w5aefdf5b5f52c .panel-grid-cell .so-panel {
+ margin-bottom: 30px
+}
+
+#pl-w5aefdf5b5f52c .panel-grid-cell .so-panel:last-child {
+ margin-bottom: 0px
+}
+
+#pg-w5aefdf5b5f52c-0 {
+ margin-left: -15px;
+ margin-right: -15px
+}
+
+#pg-w5aefdf5b5f52c-0 .panel-grid-cell {
+ padding-left: 15px;
+ padding-right: 15px
+}
+
+@media (max-width:780px) {
+ #pg-w5aefdf5b5f52c-0 .panel-grid-cell {
+  float: none;
+  width: auto
+ }
+ #pl-w5aefdf5b5f52c .panel-grid,
+ #pl-w5aefdf5b5f52c .panel-grid-cell {}
+ #pl-w5aefdf5b5f52c .panel-grid .panel-grid-cell-empty {
+  display: none
+ }
+ #pl-w5aefdf5b5f52c .panel-grid .panel-grid-cell-mobile-last {
+  margin-bottom: 0px
+ }
+}
+
+/* Layout w5aec4ae696034 */
+
+#pg-w5aec4ae696034-0,
+#pl-w5aec4ae696034 .panel-grid-cell .so-panel {
+ margin-bottom: 30px
+}
+
+#pg-w5aec4ae696034-0 .panel-grid-cell {
+ float: none
+}
+
+#pgc-w5aec4ae696034-1-0,
+#pgc-w5aec4ae696034-1-1,
+#pgc-w5aec4ae696034-1-2 {
+ width: 33.333%
+}
+
+#pg-w5aec4ae696034-1 .panel-grid-cell {
+ float: left
+}
+
+#pl-w5aec4ae696034 .panel-grid-cell .so-panel:last-child {
+ margin-bottom: 0px
+}
+
+#pg-w5aec4ae696034-0,
+#pg-w5aec4ae696034-1 {
+ margin-left: -15px;
+ margin-right: -15px
+}
+
+#pg-w5aec4ae696034-0 .panel-grid-cell,
+#pg-w5aec4ae696034-1 .panel-grid-cell {
+ padding-left: 15px;
+ padding-right: 15px
+}
+
+@media (max-width:780px) {
+ #pg-w5aec4ae696034-0 .panel-grid-cell,
+ #pg-w5aec4ae696034-1 .panel-grid-cell {
+  float: none;
+  width: auto
+ }
+ #pgc-w5aec4ae696034-1-0,
+ #pgc-w5aec4ae696034-1-1 {
+  margin-bottom: 30px
+ }
+ #pl-w5aec4ae696034 .panel-grid,
+ #pl-w5aec4ae696034 .panel-grid-cell {}
+ #pl-w5aec4ae696034 .panel-grid .panel-grid-cell-empty {
+  display: none
+ }
+ #pl-w5aec4ae696034 .panel-grid .panel-grid-cell-mobile-last {
+  margin-bottom: 0px
+ }
+}
+
+/* Layout w5aefe06b3b090 */
+
+#pg-w5aefe06b3b090-0,
+#pl-w5aefe06b3b090 .panel-grid-cell .so-panel:last-child {
+ margin-bottom: 0px
+}
+
+#pg-w5aefe06b3b090-0 .panel-grid-cell {
+ float: none
+}
+
+#pl-w5aefe06b3b090 .panel-grid-cell .so-panel {
+ margin-bottom: 30px
+}
+
+@media (max-width:780px) {
+ #pg-w5aefe06b3b090-0 .panel-grid-cell {
+  float: none;
+  width: auto
+ }
+ #pl-w5aefe06b3b090 .panel-grid,
+ #pl-w5aefe06b3b090 .panel-grid-cell {}
+ #pl-w5aefe06b3b090 .panel-grid .panel-grid-cell-empty {
+  display: none
+ }
+ #pl-w5aefe06b3b090 .panel-grid .panel-grid-cell-mobile-last {
+  margin-bottom: 0px
+ }
+}
+
+/* Layout w5af284e10969d */
+
+#pg-w5af284e10969d-0 .panel-grid-cell {
+ float: none
+}
+
+#pl-w5af284e10969d .panel-grid-cell .so-panel {
+ margin-bottom: 30px
+}
+
+#pl-w5af284e10969d .panel-grid-cell .so-panel:last-child {
+ margin-bottom: 0px
+}
+
+#pg-w5af284e10969d-0 {
+ margin-left: -15px;
+ margin-right: -15px
+}
+
+#pg-w5af284e10969d-0 .panel-grid-cell {
+ padding-left: 15px;
+ padding-right: 15px
+}
+
+@media (max-width:780px) {
+ #pg-w5af284e10969d-0 .panel-grid-cell {
+  float: none;
+  width: auto
+ }
+ #pl-w5af284e10969d .panel-grid,
+ #pl-w5af284e10969d .panel-grid-cell {}
+ #pl-w5af284e10969d .panel-grid .panel-grid-cell-empty {
+  display: none
+ }
+ #pl-w5af284e10969d .panel-grid .panel-grid-cell-mobile-last {
+  margin-bottom: 0px
+ }
+}
+
+/* Layout w5af2aae05cd81 */
+
+#pg-w5af2aae05cd81-0,
+#app-demo,
+#pl-w5af2aae05cd81 .panel-grid-cell .so-panel:last-child {
+ margin-bottom: 0px
+}
+
+#pg-w5af2aae05cd81-0 .panel-grid-cell,
+#app-demo .panel-grid-cell {
+ float: none
+}
+
+#pl-w5af2aae05cd81 .panel-grid-cell .so-panel {
+ margin-bottom: 30px
+}
+
+#app-demo {
+ margin-left: -15px;
+ margin-right: -15px
+}
+
+#app-demo .panel-grid-cell {
+ padding-left: 15px;
+ padding-right: 15px
+}
+
+@media (max-width:780px) {
+ #pg-w5af2aae05cd81-0 .panel-grid-cell,
+ #app-demo .panel-grid-cell {
+  float: none;
+  width: auto
+ }
+ #pl-w5af2aae05cd81 .panel-grid,
+ #pl-w5af2aae05cd81 .panel-grid-cell {}
+ #pl-w5af2aae05cd81 .panel-grid .panel-grid-cell-empty {
+  display: none
+ }
+ #pl-w5af2aae05cd81 .panel-grid .panel-grid-cell-mobile-last {
+  margin-bottom: 0px
+ }
+}
+
+/* Layout w5af2b40b91e7f */
+
+#pg-w5af2b40b91e7f-0,
+#pg-w5af2b40b91e7f-1,
+#pl-w5af2b40b91e7f .panel-grid-cell .so-panel:last-child {
+ margin-bottom: 0px
+}
+
+#pg-w5af2b40b91e7f-0 .panel-grid-cell,
+#pg-w5af2b40b91e7f-1 .panel-grid-cell {
+ float: none
+}
+
+#pl-w5af2b40b91e7f .panel-grid-cell .so-panel {
+ margin-bottom: 30px
+}
+
+@media (max-width:780px) {
+ #pg-w5af2b40b91e7f-0 .panel-grid-cell,
+ #pg-w5af2b40b91e7f-1 .panel-grid-cell {
+  float: none;
+  width: auto
+ }
+ #pl-w5af2b40b91e7f .panel-grid,
+ #pl-w5af2b40b91e7f .panel-grid-cell {}
+ #pl-w5af2b40b91e7f .panel-grid .panel-grid-cell-empty {
+  display: none
+ }
+ #pl-w5af2b40b91e7f .panel-grid .panel-grid-cell-mobile-last {
+  margin-bottom: 0px
+ }
+}
+
+/* Layout w5af2b40b939bb */
+
+#pgc-w5af2b40b939bb-0-0,
+#pgc-w5af2b40b939bb-0-1 {
+ width: 50%
+}
+
+#pg-w5af2b40b939bb-0,
+#pl-w5af2b40b939bb .panel-grid-cell .so-panel:last-child {
+ margin-bottom: 0px
+}
+
+#pg-w5af2b40b939bb-0 .panel-grid-cell {
+ float: left
+}
+
+#pl-w5af2b40b939bb .panel-grid-cell .so-panel {
+ margin-bottom: 30px
+}
+
+#pg-w5af2b40b939bb-0 {
+ margin-left: -15px;
+ margin-right: -15px
+}
+
+#pg-w5af2b40b939bb-0 .panel-grid-cell {
+ padding-left: 15px;
+ padding-right: 15px
+}
+
+@media (max-width:780px) {
+ #pg-w5af2b40b939bb-0 .panel-grid-cell {
+  float: none;
+  width: auto
+ }
+ #pgc-w5af2b40b939bb-0-0 {
+  margin-bottom: 30px
+ }
+ #pl-w5af2b40b939bb .panel-grid,
+ #pl-w5af2b40b939bb .panel-grid-cell {}
+ #pl-w5af2b40b939bb .panel-grid .panel-grid-cell-empty {
+  display: none
+ }
+ #pl-w5af2b40b939bb .panel-grid .panel-grid-cell-mobile-last {
+  margin-bottom: 0px
+ }
+}
+
+/* Layout w5ae15af0e7eb2 */
+
+#pg-w5ae15af0e7eb2-0,
+#pl-w5ae15af0e7eb2 .panel-grid-cell .so-panel:last-child {
+ margin-bottom: 0px
+}
+
+#pg-w5ae15af0e7eb2-0 .panel-grid-cell {
+ float: none
+}
+
+#pl-w5ae15af0e7eb2 .panel-grid-cell .so-panel {
+ margin-bottom: 30px
+}
+
+@media (max-width:780px) {
+ #pg-w5ae15af0e7eb2-0 .panel-grid-cell {
+  float: none;
+  width: auto
+ }
+ #pl-w5ae15af0e7eb2 .panel-grid,
+ #pl-w5ae15af0e7eb2 .panel-grid-cell {}
+ #pl-w5ae15af0e7eb2 .panel-grid .panel-grid-cell-empty {
+  display: none
+ }
+ #pl-w5ae15af0e7eb2 .panel-grid .panel-grid-cell-mobile-last {
+  margin-bottom: 0px
+ }
+}
